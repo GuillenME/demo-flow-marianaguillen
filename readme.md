@@ -37,3 +37,7 @@ Mariana Guillen
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
+
+
+## Integrantes
+Mariana Eurice Guillen Navarro
