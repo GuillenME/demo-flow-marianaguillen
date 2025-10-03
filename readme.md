@@ -41,3 +41,4 @@ Este proyecto está bajo la licencia MIT.
 
 ## Integrantes
 Mariana Eurice Guillen Navarro
+Froilan Najera Morales 
